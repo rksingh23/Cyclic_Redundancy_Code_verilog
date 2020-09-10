@@ -1,0 +1,1 @@
+vsim -do do_CRC.do

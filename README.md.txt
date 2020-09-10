@@ -6,7 +6,7 @@
 You can copy this using this command:
 
 ```bash
-git clone https://github.com/rksingh23/Cyclic_Redundancy_Code_verilog.git
+git clone https://github.com/rksingh23/Find_Max.git
 ```
 
 ### Run main:
